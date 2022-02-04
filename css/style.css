@@ -9,3 +9,21 @@ padding: 0px;
  --Black: black;
 
 }
+
+nav{
+
+background-color: var(--Black);
+height: 40px;
+
+}
+ul{
+
+ color: white;
+    display: flex;
+}
+nav ul li{
+    
+ align-items: center;
+    margin: 10px 20px;
+
+}
